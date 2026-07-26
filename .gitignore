@@ -1,0 +1,37 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# Git Ignore Rules — AI Contract Risk Analyzer
+# ──────────────────────────────────────────────────────────────────────────────
+
+# Environment secrets
+.env
+.env.local
+.env.production
+
+# Python / Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+
+# Database & Local Stores
+*.db
+*.sqlite3
+chroma_db/
+uploads/
+reports/
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+.npm/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
