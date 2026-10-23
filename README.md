@@ -1,12 +1,9 @@
 # AI Contract Risk Analyzer — Enterprise SaaS
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688.svg?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-18.3-61DAFB.svg?style=flat&logo=react)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6.svg?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-0.3-1C3C3C.svg?style=flat)](https://www.langchain.com/)
-[![Gemini](https://img.shields.io/badge/Google_Gemini-1.5_Flash-4285F4.svg?style=flat&logo=google)](https://ai.google.dev/)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-FF6600.svg?style=flat)](https://www.trychroma.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC.svg?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
+
 
 An enterprise-grade, portfolio-ready full-stack AI SaaS application that ingests legal contracts (PDF or DOCX) and automatically analyzes them using Large Language Models (Google Gemini 1.5 Flash), LangChain, and Retrieval-Augmented Generation (RAG) with ChromaDB.
 
